@@ -52,8 +52,7 @@
 - H베이스가 완벽하게 구동
 
 ## 하둡 에코시스템
-
-![Untitled](01%20%E1%84%92%E1%85%A1%E1%84%83%E1%85%AE%E1%86%B8%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%202d28f535a68f4a3b953966e3efaca2ab/Untitled.png)
+![!\[Alt text\](ch1-hadoop-ecosystem.png)](images/ch1-hadoop-ecosystem.png)
 
 Zookeeper
 

@@ -48,7 +48,7 @@ Map-Reduce는 Map과 Reduce라는 두개의 메서드로 구성됩니다. 이때
 
 ### 4.2.1 시스템 구성
 
-![ch4-mapreducesystem](ch4-mapreducesystem.png)
+![!\[ch4-mapreducesystem\](ch4-mapreducesystem.png)](images/ch4-mapreducesystem.png)
 
 맵리듀스 시스템은 클라이언트, 잡트래커, 태스크트래커로 구성됩니다.
 
